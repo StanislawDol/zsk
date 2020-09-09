@@ -1,5 +1,5 @@
 <?php
-echo 'test';
-echo 'test'
-
+$name ='Janusz';
+echo 'Imię: $name<br>';
+echo "Imię: $name";
 ?>
